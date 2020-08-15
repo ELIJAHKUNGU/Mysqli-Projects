@@ -1,0 +1,10 @@
+.header-list ul li{
+    display: inline-block;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.header-list img {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a2a2c63-b945-4255-b3f5-23cb869d184b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZOjg9Atb0Cz5gqjqrHOz6BiSfc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\inventory" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="inventory" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.inventory" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a2a2c63-b945-4255-b3f5-23cb869d184b" name="Default Changelist" comment="" />
+      <created>1584717142799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584717142799</updated>
+      <workItem from="1584717144174" duration="115000" />
+      <workItem from="1584717910691" duration="2015000" />
+      <workItem from="1584728842357" duration="2144000" />
+      <workItem from="1584734830323" duration="1317000" />
+      <workItem from="1584768687095" duration="154000" />
+      <workItem from="1584822629298" duration="582000" />
+      <workItem from="1585639280258" duration="1066000" />
+      <workItem from="1587411554345" duration="223000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="484" y="67" width="646" height="726" key="#inventory" timestamp="1584725689254">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="484" y="67" width="646" height="726" key="#inventory/0.0.1600.860@0.0.1600.860" timestamp="1584725689254" />
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1584768835711">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1584768835711" />
+    <state x="631" y="244" key="NewPhpClassDialog" timestamp="1584717165222">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="631" y="244" key="NewPhpClassDialog/0.0.1600.860@0.0.1600.860" timestamp="1584717165222" />
+    <state x="635" y="353" key="NewPhpFileDialog" timestamp="1584724986028">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="635" y="353" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1584724986028" />
+    <state x="495" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1584728850340">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="495" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1584728850340" />
+  </component>
+</project>

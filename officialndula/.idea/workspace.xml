@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4583b0d5-0c86-42e9-8573-217409511229" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ProjectId" id="1bzjP82j5BEJu1Mhu9NmbByWQ6P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4583b0d5-0c86-42e9-8573-217409511229" name="Default Changelist" comment="" />
+      <created>1589641788274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589641788274</updated>
+      <workItem from="1589641790731" duration="237000" />
+      <workItem from="1589651285146" duration="1179000" />
+      <workItem from="1589660080205" duration="11526000" />
+      <workItem from="1589722990544" duration="1727000" />
+      <workItem from="1589733477593" duration="2547000" />
+      <workItem from="1589736054403" duration="1781000" />
+      <workItem from="1589740106699" duration="7673000" />
+      <workItem from="1589788416675" duration="134000" />
+      <workItem from="1589975327498" duration="1449000" />
+      <workItem from="1590342547677" duration="113000" />
+      <workItem from="1591535572081" duration="2191000" />
+      <workItem from="1591901482251" duration="65000" />
+      <workItem from="1592126119232" duration="402000" />
+      <workItem from="1592129801834" duration="783000" />
+      <workItem from="1592334891511" duration="856000" />
+      <workItem from="1592550137251" duration="204000" />
+      <workItem from="1592559656255" duration="43000" />
+      <workItem from="1592908105004" duration="60000" />
+      <workItem from="1592933993740" duration="809000" />
+      <workItem from="1595151707418" duration="1308000" />
+      <workItem from="1595221856998" duration="258000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="442" y="134" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589651876962">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="442" y="134" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.900@0.0.1600.900" timestamp="1589651876962" />
+    <state x="860" y="271" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589735531765">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="860" y="271" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.900@0.0.1600.900" timestamp="1589735531765" />
+    <state x="547" y="300" key="com.intellij.ide.util.TipDialog" timestamp="1595221861062">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="547" y="300" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1595221861062" />
+    <state x="456" y="205" key="run.anything.popup" timestamp="1589745537777">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="456" y="205" key="run.anything.popup/0.0.1600.900@0.0.1600.900" timestamp="1589745537777" />
+    <state x="463" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1589671586000">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="463" y="190" width="672" height="678" key="search.everywhere.popup/0.0.1600.900@0.0.1600.900" timestamp="1589671586000" />
+  </component>
+</project>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79b279e9-6896-40c8-8afc-e1d08ab04d81" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bANoUxYyHUY97lFZ6O0YRxQF21" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Schoolweb\css" />
+      <recent name="C:\xampp\htdocs\Schoolweb\js" />
+      <recent name="C:\xampp\htdocs\Schoolweb\images" />
+      <recent name="C:\xampp\htdocs\Schoolweb\images\categories" />
+      <recent name="C:\xampp\htdocs\Schoolweb" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79b279e9-6896-40c8-8afc-e1d08ab04d81" name="Default Changelist" comment="" />
+      <created>1588071112270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588071112270</updated>
+      <workItem from="1588071113520" duration="7755000" />
+      <workItem from="1588228779688" duration="22092000" />
+      <workItem from="1588486836155" duration="673000" />
+      <workItem from="1588916566132" duration="121000" />
+      <workItem from="1588929107756" duration="433000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588071485758">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1588071485758" />
+    <state x="496" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1588916576747">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1588486839627" />
+    <state x="496" y="266" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1588916576747" />
+  </component>
+</project>

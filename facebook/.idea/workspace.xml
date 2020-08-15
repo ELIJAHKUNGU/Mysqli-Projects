@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="579b89ea-4d48-4d87-9694-14a7cf9df31b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1atNF7oPLYGwTdaiZxnr6fenCPC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bootstrap4/js" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\facebook\bootstrap4\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\facebook\bootstrap4\js" />
+      <recent name="C:\xampp\htdocs\facebook\bootstrap4\css" />
+      <recent name="C:\xampp\htdocs\facebook" />
+      <recent name="C:\xampp\htdocs\facebook\css" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="579b89ea-4d48-4d87-9694-14a7cf9df31b" name="Default Changelist" comment="" />
+      <created>1587550823579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587550823579</updated>
+      <workItem from="1587550825461" duration="6061000" />
+      <workItem from="1587645688982" duration="3000" />
+      <workItem from="1587645706531" duration="2900000" />
+      <workItem from="1587650839665" duration="1104000" />
+      <workItem from="1587659345822" duration="7282000" />
+      <workItem from="1587740981377" duration="12988000" />
+      <workItem from="1588067706520" duration="2115000" />
+      <workItem from="1595222122015" duration="1314000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="818" y="53" key="com.intellij.ide.util.TipDialog" timestamp="1596449353427">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="818" y="51" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1588067739033" />
+    <state x="818" y="53" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1596449353427" />
+  </component>
+</project>

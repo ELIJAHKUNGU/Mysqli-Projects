@@ -1,0 +1,35 @@
+header{
+    background-color: black;
+    height: 110px;
+    width: 100%;
+}
+.logo{
+    float: left;
+    padding-left: 100px;
+
+ }
+.logo img{
+    padding-left:40px;
+}
+li a{
+    color: white;
+    text-decoration: white;
+}
+
+nav{
+    float: right;
+    margin-left: 40%;
+    word-spacing: 30px;
+    padding: 20px;
+}
+nav li{
+    line-height: 80px;
+    display: inline-block;
+
+}
+section{
+    background-image: url("Images/background.jpg");
+}
+
+
+

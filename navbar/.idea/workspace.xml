@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fc1ba1d-dbb2-4751-b1bb-6a82f41e34fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1Zz7BkfGc0Vok5PpmDPe4oZ7XFx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\navbar" />
+      <recent name="C:\xampp\htdocs\navbar\Sa" />
+      <recent name="C:\xampp\htdocs\navbar\bootstrap\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\navbar" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fc1ba1d-dbb2-4751-b1bb-6a82f41e34fd" name="Default Changelist" comment="" />
+      <created>1585829937129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585829937129</updated>
+      <workItem from="1585829949885" duration="1915000" />
+      <workItem from="1585850743058" duration="657000" />
+      <workItem from="1585937337721" duration="11126000" />
+      <workItem from="1585984902159" duration="1284000" />
+      <workItem from="1585989148601" duration="987000" />
+      <workItem from="1585995441605" duration="331000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="760" y="105" key="#CLI_Interpreters" timestamp="1585941426779">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="760" y="105" key="#CLI_Interpreters/0.0.1600.860@0.0.1600.860" timestamp="1585941426779" />
+    <state x="909" y="41" key="#PHP" timestamp="1585941447563">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="909" y="41" key="#PHP/0.0.1600.860@0.0.1600.860" timestamp="1585941447563" />
+    <state x="954" y="277" key="NewPhpClassDialog" timestamp="1585939887367">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="954" y="277" key="NewPhpClassDialog/0.0.1600.860@0.0.1600.860" timestamp="1585939887367" />
+    <state x="634" y="353" key="NewPhpFileDialog" timestamp="1585947651182">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="634" y="353" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1585947651182" />
+    <state x="301" y="72" key="SettingsEditor" timestamp="1585939873255">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1585939873255" />
+    <state x="770" y="287" key="com.intellij.ide.util.TipDialog" timestamp="1585995467348">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="770" y="287" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1585995467348" />
+  </component>
+</project>

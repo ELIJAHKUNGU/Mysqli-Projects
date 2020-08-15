@@ -1,0 +1,13 @@
+#admin img{
+    border-radius: 30px;
+    width: 350px;
+    height: 200px ;
+}
+#block{
+    margin: 10px 20px 10px 10px;
+    border-radius: 30px;
+    border: 6px solid white;
+    text-decoration: none;
+
+
+}
